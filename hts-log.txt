@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 16 Mar 2022 09:07:50 at http://panther.wiki/dicedream111/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://panther.wiki/dicedream111/ -O1 "C:\My Web Sites\dicedream" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:07:55	Warning: 	Moved Permanently for panther.wiki/robots.txt
+09:07:55	Warning: 	Redirected link is identical because of 'URL Hack' option: panther.wiki/robots.txt and https://panther.wiki/robots.txt
+09:07:55	Warning: 	Warning moved treated for panther.wiki/robots.txt (real one is https://panther.wiki/robots.txt)
+09:08:05	Error: 	"Not Found" (404) at link https://panther.wiki/dicedream111/customTemplateGlobal.set (from panther.wiki/dicedream111/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 18 links scanned, 16 files written (886953 bytes overall) [801671 bytes received at 53444 bytes/sec], 164708 bytes transferred using HTTP compression in 4 files, ratio 27%, 1.9 requests per connection
+(1 errors, 3 warnings, 0 messages)
